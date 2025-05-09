@@ -44,7 +44,7 @@ Fomentar el aprendizaje práctico de la bioinformática mediante recursos abiert
 
 ## 📬 Contacto
 
-Si deseas colaborar, contribuir con materiales o simplemente saber más, no dudes en contactarnos a través de GitHub o por correo electrónico (puedes agregar uno si lo deseas).
+Si deseas colaborar, contribuir con materiales o simplemente saber más, no dudes en contactarnos a través de GitHub o por correo electrónico [biocodeacademy@gmail.com](biocodeacademy@gmail.com).
 
 ---
 
