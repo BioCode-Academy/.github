@@ -8,24 +8,24 @@
 
 Estamos desarrollando una serie de cursos modulares enfocados en temas clave de la bioinformática. A continuación se muestra el listado de los cursos y su estado actual:
 
-| Curso                       | Estado         |
-|-----------------------------|----------------|
-| Unix                        | En desarrollo  |
-| Git & Github                | En planeación  |
-| Bases de datos              | En planeación  |
-| Análisis de secuencias      | En planeación  |
-| Modelado proteíco           | En planeación  |
-| Diseño de primers           | En planeación  |
-| R & Rstudio                 | En planeación  |
-| Python                      | En planeación  |
-| gplot2 & Inkscape           | En planeación  |
-| Análisis Genómicos          | En planeación  |
-| Análisis Transcriptómicos   | En desarrollo  |
-| Análisis de Redes           | En planeación  |
-| Análisis Metagenómico       | En planeación  |
-| Minería Genómica            | En planeación  |
-| Machine Learning            | En planeación  |
-| Reproducibilidad Científica | En planeación  |
+| **Curso**                                                                 | **Estado**     |
+|---------------------------------------------------------------------------|----------------|
+| [Unix](https://github.com/BioCode-Academy/Unix )                          | En desarrollo  |
+| Git & Github                                                              | En planeación  |
+| Bases de datos                                                            | En planeación  |
+| Análisis de secuencias                                                    | En planeación  |
+| Modelado proteíco                                                         | En planeación  |
+| Diseño de primers                                                         | En planeación  |
+| R & Rstudio                                                               | En planeación  |
+| Python                                                                    | En planeación  |
+| gplot2 & Inkscape                                                         | En planeación  |
+| Análisis Genómicos                                                        | En planeación  |
+| [Análisis Transcriptómicos](https://github.com/BioCode-Academy/RNA-seq)   | En desarrollo  |
+| Análisis de Redes                                                         | En planeación  |
+| Análisis Metagenómico                                                     | En planeación  |
+| Minería Genómica                                                          | En planeación  |
+| Machine Learning                                                          | En planeación  |
+| Reproducibilidad Científica                                               | En planeación  |
 
 ---
 
