@@ -12,7 +12,7 @@ Estamos desarrollando una serie de cursos modulares enfocados en temas clave de 
 |--------------------------------------------------------------------------------|----------------|
 | [Unix](https://github.com/BioCode-Academy/Unix)                                | En evaluación  |
 | Git & Github                                                                   | En planeación  |
-| [Análisis de secuencias](https://github.com/BioCode-Academy/Sequence-analysis) | En desarrollo  |
+| [Análisis de secuencias](https://github.com/BioCode-Academy/Sequence-analysis) | En evaluación  |
 | R & Rstudio                                                                    | En desarrollo  |
 | Python                                                                         | En planeación  |
 | ggplot2 & Inkscape                                                             | En planeación  |
