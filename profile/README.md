@@ -10,9 +10,9 @@ Estamos desarrollando una serie de cursos modulares enfocados en temas clave de 
 
 | **Curso**                                                                      | **Estado**     |
 |--------------------------------------------------------------------------------|----------------|
-| [Unix](https://github.com/BioCode-Academy/Unix)                                | En evaluación  |
+| [Unix](https://github.com/BioCode-Academy/Unix)                                | [En evaluación](https://biocode-academy.github.io/Unix/)  |
 | Git & Github                                                                   | En planeación  |
-| [Análisis de secuencias](https://github.com/BioCode-Academy/Sequence-analysis) | En evaluación  |
+| [Análisis de secuencias](https://github.com/BioCode-Academy/Sequence-analysis) | [En evaluación](https://biocode-academy.github.io/Sequence-analysis/)  |
 | R & Rstudio                                                                    | En desarrollo  |
 | Python                                                                         | En planeación  |
 | ggplot2 & Inkscape                                                             | En planeación  |
