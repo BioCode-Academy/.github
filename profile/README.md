@@ -28,8 +28,8 @@ Estamos desarrollando una serie de cursos modulares enfocados en temas clave de 
 
 ## 👥 Colaboradores
 
-- [David Alberto García Estrada](https://github.com/DavidAlberto) – Co-fundador, desarrollador e instructor
-- [Eli Efraín Enríquez Félix](https://github.com/elienriquez) – Co-fundador, desarrollador e instructor
+- [David Alberto García Estrada](https://github.com/DavidAlberto) – Fuundador, desarrollador e instructor
+- [Eli Efraín Enríquez Félix](https://github.com/elienriquez) – Colaborador, desarrollador e instructor
 
 ---
 
